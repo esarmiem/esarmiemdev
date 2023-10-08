@@ -4,21 +4,21 @@
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logo": "https://s3.amazonaws.com/gndx.dev/ev0-astro-logo.png",
+    "logo": "logo.webp",
     "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "description": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad",
     "pageSize": 6
   },
   "features": {
     "youtube": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Elder Sarmiento @esarmiem",
+    "meta_description": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad"
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "< esarmiem dev />",
+    "avatar": "profile.webp",
+    "bio": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad"
   }
 }
