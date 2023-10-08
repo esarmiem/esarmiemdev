@@ -1,21 +1,21 @@
 ---
-import config from "@config/config.json";
-import HeartIcon from "@components/icons/HeartIcon.astro";
+import config from '@config/config.json';
+import HeartIcon from '@components/icons/HeartIcon.astro';
 const year = new Date().getFullYear();
 ---
 
 <footer class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8">
   <div class="border-t border-gray-100">
-    <p class="text-center text-xs/relaxed text-gray-500 mt-8 mb-8">
+    <p class="mb-8 mt-8 text-center text-xs/relaxed text-gray-500">
       &copy; {year}. {config.site.title}
-      <span class="block mt-2">
+      <span class="mt-2 block">
         Hecho con
-        <HeartIcon />       
-        en Colombia. by
+        <HeartIcon />
+         en Colombia. by
         <a
           href="https://esarmiem-links.com/"
           class="text-gray-700 decoration-dashed transition hover:text-gray-700/75"
-          >EsarmiemDev</a
+          target="_blank">EsarmiemDev</a
         >
       </span>
     </p>
