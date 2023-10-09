@@ -4,7 +4,7 @@
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logo": "logo.webp",
+    "logo": "/logo.webp",
     "lang": "en",
     "description": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad",
     "pageSize": 6
@@ -18,7 +18,7 @@
   },
   "author": {
     "name": "< esarmiem dev />",
-    "avatar": "profile.webp",
+    "avatar": "/profile.webp",
     "bio": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad"
   }
 }
