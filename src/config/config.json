@@ -1,12 +1,12 @@
 {
   "site": {
     "title": "esarmiem ",
-    "base_url": "https://ev0.gndx.io",
+    "base_url": "https://esarmiemdev.vercel.app/",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logo": "/logo.webp",
     "lang": "en",
-    "description": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad",
+    "description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad",
     "pageSize": 6
   },
   "features": {
@@ -14,11 +14,11 @@
   },
   "metadata": {
     "meta_author": "Elder Sarmiento @esarmiem",
-    "meta_description": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad"
+    "meta_description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad"
   },
   "author": {
     "name": "< esarmiem dev />",
     "avatar": "/profile.webp",
-    "bio": "Mi blog personal de noticias y recursos de programación para compartir con la comunidad"
+    "bio": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad"
   }
 }

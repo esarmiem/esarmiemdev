@@ -1,19 +1,43 @@
 ---
-title: 'Third post'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder.jpg'
-categories: ['third']
-authors: ['gndx']
-tags: ['space', 'technology', 'science']
+title: '30 rasgos y hábitos que te ayudarán a ser un desarrollador de software más eficiente.'
+description: 'No soy un gran programador; solo soy un buen programador con grandes hábitos." - Kent Beck.'
+pubDate: 'Oct 10 2023'
+heroImage: '/post/habitos.webp'
+categories: ['artículo']
+authors: ['< esarmiem dev />']
+tags: ['programación', 'frontend', 'backend', 'web', 'mobile']
 ---
+### 📊 30 RASGOS Y HÁBITOS QUE TE AYUDARÁN A SER UN DESARROLLADOR DE SOFTWARE MÁS EFICIENTE. 🖥️📈
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+**"No soy un gran programador; solo soy un buen programador con grandes hábitos." - Kent Beck.**
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
-
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+1. Domina habilidades fuera de tu zona de confort.
+2. Planea, prueba y revisa tu trabajo antes de enviarlo.
+3. Elige la simplicidad sobre la facilidad.
+4. Practica la retroalimentación continua durante el ciclo de desarrollo.
+5. Documenta tu código de manera clara y concisa.
+6. Escoge tus abstracciones sabiamente.
+7. Establece límites realistas para cumplir con los plazos.
+8. Comunica eficazmente con tus compañeros.
+9. Sé honesto sobre el progreso y los desafíos.
+10. Acepta la crítica de forma constructiva.
+11. Aprende y aplica nuevas tecnologías rápidamente.
+12. Piensa detenidamente antes de realizar cambios.
+13. Enorgullécete de tu trabajo y disfrútalo.
+14. Empatiza con los usuarios y colegas.
+15. Comprende completamente el contexto de tus tareas.
+16. Busca segundas opiniones si tienes dudas.
+17. Prioriza la experiencia del usuario.
+18. Sé pragmático y trabaja hacia tus metas.
+19. No dejes que tu ego obstaculice el objetivo del negocio.
+20. Evita el agotamiento laboral.
+21. Convierte problemas en oportunidades.
+22. Divide problemas grandes en problemas más pequeños.
+23. Asume responsabilidad y rendición de cuentas adecuadas.
+24. Encuentra un equilibrio entre desafío y vida laboral.
+25. Investiga el "por qué" de lo que haces.
+26. Busca retroalimentación de tus compañeros y usuarios.
+27. Considera la imagen completa y el valor a largo plazo.
+28. Planifica tu día de manera efectiva.
+29. No temas el fracaso ni cometer errores.
+30. Utiliza la retroalimentación continua para mejorar constantemente.
