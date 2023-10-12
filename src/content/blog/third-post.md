@@ -1,10 +1,10 @@
 ---
-title: '30 rasgos y hábitos que te ayudarán a ser un desarrollador de software más eficiente.'
+title: '30 rasgos y hábitos que te ayudarán a ser un desarrollador de software más eficiente'
 description: 'No soy un gran programador; solo soy un buen programador con grandes hábitos." - Kent Beck.'
 pubDate: 'Oct 10 2023'
 heroImage: '/post/habitos.webp'
 categories: ['artículo']
-authors: ['< esarmiem dev />']
+authors: ['elder sarmiento']
 tags: ['programación', 'frontend', 'backend', 'web', 'mobile']
 ---
 ### 📊 30 RASGOS Y HÁBITOS QUE TE AYUDARÁN A SER UN DESARROLLADOR DE SOFTWARE MÁS EFICIENTE. 🖥️📈
