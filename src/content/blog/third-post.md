@@ -36,8 +36,8 @@ tags: ['programación', 'frontend', 'backend', 'web', 'mobile']
 23. Asume responsabilidad y rendición de cuentas adecuadas.
 24. Encuentra un equilibrio entre desafío y vida laboral.
 25. Investiga el "por qué" de lo que haces.
-26. Busca retroalimentación de tus compañeros y usuarios.
+26. Adáptate al cambio y mantén una mentalidad flexible.
 27. Considera la imagen completa y el valor a largo plazo.
 28. Planifica tu día de manera efectiva.
 29. No temas el fracaso ni cometer errores.
-30. Utiliza la retroalimentación continua para mejorar constantemente.
+30. Cultiva tu resiliencia y aprendizaje constante.

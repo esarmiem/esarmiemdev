@@ -6,7 +6,7 @@
     "favicon": "/favicon.png",
     "logo": "/logo.webp",
     "lang": "en",
-    "description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad",
+    "description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad.",
     "pageSize": 6
   },
   "features": {
@@ -14,11 +14,11 @@
   },
   "metadata": {
     "meta_author": "Elder Sarmiento @esarmiem",
-    "meta_description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad"
+    "meta_description": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad."
   },
   "author": {
     "name": "< esarmiem dev />",
     "avatar": "/profile.webp",
-    "bio": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad"
+    "bio": "Donde la pasión por la programación se encuentra con la colaboración: tu blog de noticias y recursos de programación gratuitos para la comunidad."
   }
 }

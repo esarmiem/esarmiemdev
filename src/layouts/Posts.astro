@@ -32,6 +32,7 @@ type PostType = {
         <div class="rounded-lg block overflow-hidden mb-4">
           {post.data.heroImage && (
             <figure class="w-auto h-auto md:h-[150px] object-cover">
+              <a href={`/blog/${post.slug}/`}>
               <Image
                 class="transition duration-300 ease-in-out hover:scale-110"
                 src={post.data.heroImage}
@@ -41,6 +42,7 @@ type PostType = {
                 decoding="async"
                 loading="lazy"
               />
+            </a>
             </figure>
           )}
         </div>
