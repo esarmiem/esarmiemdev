@@ -16,16 +16,16 @@ interface Props {
 const socialItems = social.networks;
 ---
 
-<section class="bg-gray-50">
+<section class="bg-yellow-50 border-b-2 border-black">
   <div class="mx-auto max-w-screen-lg px-4 py-0 sm:px-6 pb-6 sm:pb-12 lg:px-8">
     <div class="flex items-start justify-between">
       <div class="rounded-lg w-3/5">
         <h1
-          class="text-lg md:text-2xl font-bold text-gray-900 sm:text-3xl mb-0"
+          class="text-lg md:text-2xl font-bold text-black sm:text-3xl mb-0"
         >
           {config.author.name}
         </h1>
-        <p class="mt-1.5 text-sm md:text-lg text-gray-500" style="text-wrap: balance">
+        <p class="mt-1.5 text-sm md:text-lg text-black" style="text-wrap: balance">
           {config.author.bio}
         </p>
         <div class="flex space-x-5 pt-8 m-auto">
@@ -43,7 +43,7 @@ const socialItems = social.networks;
       <div class="rounded-lg">
         <figure class="right-0">
           <Image
-            class="rounded-lg w-24 md:w-32"
+            class="w-24 md:w-32 border-2 border-black"
             width={512}
             height={512}
             src={config.author.avatar}
