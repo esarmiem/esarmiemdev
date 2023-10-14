@@ -36,14 +36,14 @@ const { main }: { main: NavigationLink[] } = menu;
         <label
           id="show-button"
           for="nav-toggle"
-          class="order-2 flex cursor-pointer items-center text-black md:hidden"
+          class="order-2 flex cursor-pointer items-center text-black font-sans md:hidden"
         >
           <HamburgerIcon />
         </label>
         <label
           id="hide-button"
           for="nav-toggle"
-          class="order-2 hidden cursor-pointer items-center text-black"
+          class="order-2 hidden cursor-pointer items-center text-black font-sans"
         >
           <CloseIcon />
         </label>
@@ -52,13 +52,13 @@ const { main }: { main: NavigationLink[] } = menu;
           id="nav-menu"
           class="absolute top-8 right-0 p-2 z-10 mt-2 hidden w-44 divide-y divide-gray-100 border-2 border-black bg-red-200 shadow-lg"
         >
-          <ul class="py-2 text-sm text-black dark:text-gray-200">
+          <ul class="py-2 text-sm text-black font-sans dark:text-gray-200">
             {
               main?.map((menu) => (
                 <li>
                   <a
                     href={menu?.url}
-                    class="block rounded-lg px-4 py-2 text-sm text-black font-bold hover:underline"
+                    class="block rounded-lg px-4 py-2 text-sm text-black font-sans font-bold hover:underline"
                   >
                     {menu?.name}
                   </a>
@@ -71,7 +71,7 @@ const { main }: { main: NavigationLink[] } = menu;
       <ul class="ml-auto hidden md:flex items-center gap-6 lg:flex">
         {
           main?.map((menu) => (
-            <li class="block rounded-lg px-2 py-2 text-md text-black font-bold hover:underline">
+            <li class="block rounded-lg px-2 py-2 text-md text-black font-sans font-bold hover:underline">
               <a href={menu?.url} class="flex items-center relative">
                 {menu?.name === "Home" ? <HomeIcon /> : menu?.name}
               </a>
