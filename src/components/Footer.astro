@@ -3,10 +3,10 @@ import config from '@config/config.json';
 import HeartIcon from '@components/icons/HeartIcon.astro';
 const year = new Date().getFullYear();
 ---
-
+<div class="bg-black">
 <footer class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8 bg-black">
   <div class="border-t-2 border-black">
-    <p class="mb-8 mt-8 text-center text-xs/relaxed text-white font-sans font-bold">
+    <p class="pb-4 mt-8 text-center text-xs/relaxed text-white font-sans font-bold">
       &copy; {year}. {config.site.title}
       <span class="mt-2 block">
         Hecho con
@@ -21,3 +21,4 @@ const year = new Date().getFullYear();
     </p>
   </div>
 </footer>
+</div>
