@@ -5,7 +5,7 @@ pubDate: 'Oct 10 2023'
 heroImage: '/post/habitos.webp'
 categories: ['artículo']
 authors: ['elder sarmiento']
-tags: ['programación', 'frontend', 'backend', 'web', 'mobile']
+tags: ['frontend', 'backend', 'web', 'mobile']
 ---
 ### 📊 30 RASGOS Y HÁBITOS QUE TE AYUDARÁN A SER UN DESARROLLADOR DE SOFTWARE MÁS EFICIENTE. 🖥️📈
 

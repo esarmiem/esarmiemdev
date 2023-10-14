@@ -4,7 +4,7 @@ description: 'Prepara tu café y escucha estos 4 podcasts de programación en Sp
 pubDate: '2023-10-12T18:09:35.804Z'
 heroImage: '/post/podcast.webp'
 categories: ["recurso"]
-tags: ['programación', 'frontend', 'backend', 'web', 'mobile']
+tags: ['frontend', 'backend', 'web', 'mobile']
 author: '["elder sarmiento"]'
 ---
 Prepara tu café y escucha estos 4 podcasts de programación en Spotify para tus mañanas. ☕🎤
