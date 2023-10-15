@@ -50,10 +50,10 @@
   h4,
   h5,
   h6 {
-    @apply text-zinc-800 !important;
+    @apply text-black !important;
   }
   p {
-    @apply text-zinc-700;
+    @apply text-black;
   }
 }
 
