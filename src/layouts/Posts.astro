@@ -1,8 +1,8 @@
 ---
-import { Image } from "astro:assets";
-import FormattedDate from "@components/FormattedDate.astro";
-import config from "@config/config.json";
-import { slugify } from "@utils/slug";
+import { Image } from 'astro:assets';
+import FormattedDate from '@components/FormattedDate.astro';
+import config from '@config/config.json';
+import { slugify } from '@utils/slug';
 
 const { posts } = Astro.props;
 
@@ -23,50 +23,47 @@ type PostType = {
 };
 ---
 
-<div
-  class="mx-auto grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3"
->
+<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
   {
     posts?.slice(0, config.site.pageSize).map((post: PostType) => (
-      <article class="flex w-full flex-col items-start border-2 border-black p-2 bg-red-100">
-        <div class="block overflow-hidden mb-4">
+      <article class="flex w-full flex-col items-start border-2 border-black bg-red-100 p-4">
+        <div class="mb-4 block overflow-hidden">
           {post.data.heroImage && (
-            <figure class="w-auto h-auto md:h-[150px] object-cover">
+            <figure class="h-auto w-auto object-cover md:h-[150px]">
               <a href={`/blog/${post.slug}/`}>
-              <Image
-                class="transition duration-300 ease-in-out hover:scale-110"
-                src={post.data.heroImage}
-                alt={post.data.title}
-                width={960}
-                height={480}
-                decoding="async"
-                loading="lazy"
-              />
-            </a>
+                <Image
+                  class="transition duration-300 ease-in-out hover:scale-110"
+                  src={post.data.heroImage}
+                  alt={post.data.title}
+                  width={960}
+                  height={480}
+                  decoding="async"
+                  loading="lazy"
+                />
+              </a>
             </figure>
           )}
         </div>
-        <div class="flex items-center gap-x-4 text-xs font-bold">
+        <div class="flex items-center gap-x-4 font-bold text-xs">
           <FormattedDate date={post.data.pubDate} />
           {post.data.categories.slice(0, 2).map((item) => (
             <a
               href={`/categories/${slugify(item)}`}
-              class="capitalize text-md relative z-10 bg-yellow-100 border-2 border-black px-3 py-1.5 font-medium text-black font-sans hover:bg-white"
+              class="group relative inline-block border border-black font-medium font-sans text-xs text-black focus:outline-none focus:ring active:text-black"
             >
-              {item}
+              <span class="absolute inset-0 translate-x-1 translate-y-1 bg-black transition-transform group-hover:translate-x-0 group-hover:translate-y-0" />
+              <span class="relative block border border-current bg-white px-2 py-1">{item}</span>
             </a>
           ))}
         </div>
         <div class="relative">
-          <h2 class="mt-3 text-xl font-bold leading-6 text-black font-sans group-hover:text-black">
+          <h2 class="mt-3 font-bold font-sans text-xl leading-6 text-black group-hover:text-black">
             <a href={`/blog/${post.slug}/`}>
               <span class="absolute inset-0" />
               {post.data.title}
             </a>
           </h2>
-          <p class="mt-5 line-clamp-3 text-sm leading-6 text-black font-sans">
-            {post.data.description}
-          </p>
+          <p class="mt-5 line-clamp-3 font-sans text-sm leading-6 text-black">{post.data.description}</p>
         </div>
       </article>
     ))
