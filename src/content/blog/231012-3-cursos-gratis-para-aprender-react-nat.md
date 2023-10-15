@@ -4,7 +4,7 @@ description: 'Aprende los fundamentos de React Native, una tecnología esencial 
 pubDate: '2023-10-12T04:25:54.658Z'
 heroImage: '/post/reactnative.webp'
 categories: ["recurso"]
-tags: ['mobile']
+tags: ['frontend', 'backend', 'web', 'mobile']
 author: '["elder sarmiento"]'
 ---
 
