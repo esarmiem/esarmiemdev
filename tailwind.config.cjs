@@ -89,6 +89,10 @@ module.exports = {
         'semibold': ['SpaceGrotesk-SemiBold', 'sans-serif'],
         'bold': ['SpaceGrotesk-Bold', 'sans-serif'],
       },
+      cursor: {
+        'default': 'url(/cursor/default.png), auto',
+        'pointer': 'url(/cursor/pointer.png), auto',
+      },
     },
   },
   plugins: [require('@tailwindcss/typography'), require('@tailwindcss/aspect-ratio')],

@@ -77,3 +77,40 @@ input#nav-toggle:checked ~ label#hide-button {
 input#nav-toggle:checked ~ #nav-menu {
   @apply block md:flex;
 }
+
+*,
+*:before,
+*:after {
+  @apply cursor-default;
+}
+
+a,
+button,
+a img,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+span a,
+a span,
+a svg,
+svg a,
+p a,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+[role="button"],
+[role="link"],
+[role="menuitem"],
+[role="menuitemcheckbox"],
+[role="menuitemradio"],
+[role="option"],
+[role="radio"],
+[role="switch"],
+[role="tab"],
+[role="treeitem"],
+[role="presentation"] {
+  @apply cursor-pointer;
+}
