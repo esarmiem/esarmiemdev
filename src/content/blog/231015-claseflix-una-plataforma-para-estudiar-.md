@@ -14,4 +14,4 @@ Como JavaScript, chat GPT, inglés, diseño gráfico, ciberseguridad, marketing 
 
 Esta plataforma existe y se llama Claseflix. Es completamente gratuita, e incluso cuenta con una sección dedicada a la búsqueda de empleo. Puedes registrarte para llevar un seguimiento de los cursos que has completado.
 
-- [Enlace a Claseflix](https://claseflix.com/)
+[Enlace a Claseflix](https://claseflix.com/)
