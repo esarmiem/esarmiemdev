@@ -28,8 +28,8 @@ type PostType = {
 >
   {
     posts?.slice(0, config.site.pageSize).map((post: PostType) => (
-      <article class="flex w-full flex-col items-start">
-        <div class="rounded-lg block overflow-hidden mb-4">
+      <article class="flex w-full flex-col items-start border-2 border-black p-2 bg-red-100">
+        <div class="block overflow-hidden mb-4">
           {post.data.heroImage && (
             <figure class="w-auto h-auto md:h-[150px] object-cover">
               <a href={`/blog/${post.slug}/`}>
@@ -51,7 +51,7 @@ type PostType = {
           {post.data.categories.slice(0, 2).map((item) => (
             <a
               href={`/categories/${slugify(item)}`}
-              class="capitalize text-md relative z-10 bg-white border-2 border-black px-3 py-1.5 font-medium text-black font-sans hover:bg-yellow-100"
+              class="capitalize text-md relative z-10 bg-yellow-100 border-2 border-black px-3 py-1.5 font-medium text-black font-sans hover:bg-white"
             >
               {item}
             </a>
