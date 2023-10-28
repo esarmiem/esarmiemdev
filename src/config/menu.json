@@ -7,14 +7,6 @@
     {
       "name": "Acerca de",
       "url": "/about"
-    },
-    {
-      "name": "Etiquetas",
-      "url": "/tags"
-    },
-    {
-      "name": "Categorías",
-      "url": "/categories"
     }
   ]
 }
