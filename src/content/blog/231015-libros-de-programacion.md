@@ -14,4 +14,4 @@ Estos libros abarcan una amplia gama de lenguajes y tecnologías, desde Android,
 
 ¿Necesitas establecer fundamentos sólidos, obtener consejos útiles o enfrentarte a desafiantes ejercicios? para desarrolladores de todos los niveles. 
 
-[Enlace a books goalkicker](https://books.goalkicker.com/)
+<a href="https://books.goalkicker.com/" target="_blank">Enlace a books.goalkicker</a>

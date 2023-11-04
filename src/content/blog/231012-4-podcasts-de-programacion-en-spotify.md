@@ -9,7 +9,7 @@ author: '["elder sarmiento"]'
 ---
 Prepara tu café y escucha estos 4 podcasts de programación en Spotify para tus mañanas. ☕🎤
 
-- 1.  [DevTalles](https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5?si=db00d0dc1ba2434c)
-- 2.  [Web Reactiva](https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=d88f646f31574b1a)
-- 3.  [No me da la Vida](https://open.spotify.com/show/0RctycUmwttpDjMvKovO7r?si=1d74687bd5d44a3b)
-- 4.  [Programador X](https://open.spotify.com/show/6iuwL4j3oyaMZyBThzv7Hq?si=9e6a329582ab4b24)
+- 1. <a href="https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5?si=db00d0dc1ba2434c" target="_blank">DevTalles</a>
+- 2. <a href="https://open.spotify.com/show/59878neWF4cPVmpPmvIZTF?si=d88f646f31574b1a" target="_blank">Web Reactiva</a>
+- 3. <a href="https://open.spotify.com/show/0RctycUmwttpDjMvKovO7r?si=1d74687bd5d44a3b" target="_blank">No me da la Vida</a>
+- 4. <a href="https://open.spotify.com/show/6iuwL4j3oyaMZyBThzv7Hq?si=9e6a329582ab4b24" target="_blank">Programador X</a>

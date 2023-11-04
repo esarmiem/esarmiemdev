@@ -18,4 +18,4 @@ Linux Journey es una plataforma que te ofrece cursos gratuitos para aprender las
 
 🔹 __Networking Nomad:__ Llega al siguiente nivel con el "Networking Nomad" y aprende sobre Network Sharing, Network Basics, Subnetting, Routing, Network Config, Troubleshooting y DNS.
 
-[Linux Journey](https://linuxjourney.com/)
+<a href="https://linuxjourney.com/" target="_blank">Linux Journey</a>

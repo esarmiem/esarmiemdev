@@ -12,11 +12,11 @@ Si estás buscando recursos para dar vida a tus sitios web con animaciones y tra
 
 ¡Explora estas herramientas y lleva tus proyectos web al siguiente nivel!
 
-1.  [Gsap](https://gsap.com/)
-2.  [Transition.css](https://www.transition.style/)
-3.  [Animista](https://animista.net/)
-4.  [AnimatiSS](https://xsgames.co/animatiss/)
-5.  [AnimeJs](https://animejs.com/)
-6.  [AOS](https://michalsnik.github.io/aos/)
-7.  [Cattocss](https://www.cattocss.com/)
-8.  [AutoAnimate](https://auto-animate.formkit.com/)
+1. <a href="https://gsap.com/" target="_blank">Gsap</a>
+2. <a href="https://www.transition.style/" target="_blank">Transition.css</a>
+3. <a href="https://animista.net/" target="_blank">Animista</a>
+4. <a href="https://xsgames.co/animatiss/" target="_blank">AnimatiSS</a>
+5. <a href="https://animejs.com/" target="_blank">AnimeJs</a>
+6. <a href="https://michalsnik.github.io/aos/" target="_blank">AOS</a>
+7. <a href="https://www.cattocss.com/" target="_blank">Cattocss</a>
+8. <a href="https://auto-animate.formkit.com/" target="_blank">AutoAnimate</a>

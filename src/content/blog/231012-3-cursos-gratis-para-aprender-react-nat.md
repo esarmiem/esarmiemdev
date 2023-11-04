@@ -9,13 +9,13 @@ author: '["elder sarmiento"]'
 ---
 
 **Curso 1: React Native School**
-- [Enlace](https://www.reactnativeschool.com/react-native-basics)
+- <a href="https://www.reactnativeschool.com/react-native-basics" target="_blank">Enlace</a></p>
 
 **Curso 2: Learn React Native en Codecademy**
-- [Enlace](https://www.codecademy.com/learn/learn-react-native)
+- <a href="https://www.codecademy.com/learn/learn-react-native" target="_blank">Enlace</a></p>
 
 **Curso 3: React Native en Meta/Coursera**
-- [Enlace](https://www.coursera.org/learn/react-native-course)
+- <a href="https://www.coursera.org/learn/react-native-course" target="_blank">Enlace</a></p>
 
 React Native es un framework de código abierto creado por Facebook para desarrollar aplicaciones móviles reales y nativas para iOS y Android. A diferencia de otros frameworks de desarrollo móvil, React Native permite a los desarrolladores escribir código una vez y ejecutarlo en múltiples plataformas, como iOS y Android, sin comprometer la experiencia del usuario ni la eficiencia de la aplicación.
 

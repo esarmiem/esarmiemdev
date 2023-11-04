@@ -21,4 +21,4 @@ Explora cursos de programación, desarrollo web/mobile, inteligencia artificial 
 - Puedes elegir un plan pro con muchos beneficios 🎁 (no es obligatorio)
 - App desde la que puedes estudiar en tu dispositivo IOS/Android 📱
 
-[Descubre SoloLearn aquí](https://www.sololearn.com/)
+<a href="https://www.sololearn.com/" target="_blank">Descubre SoloLearn aquí</a>

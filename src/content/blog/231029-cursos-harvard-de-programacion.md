@@ -15,10 +15,10 @@ Aprovecha esta oportunidad, ya que estos cursos estarán disponibles de forma gr
 📚 Cursos:
 
 → Programación Web con Python y JavaScript
-[Enlace](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- <a href="https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0" target="_blank">Enlace</a>
 
-→ Introducción al Desarrollo de Videojuegos: 
-[Enlace](https://pll.harvard.edu/course/cs50s-introduction-game-development)
+→ Introducción al Desarrollo de Videojuegos:
+- <a href="https://pll.harvard.edu/course/cs50s-introduction-game-development" target="_blank">Enlace</a>
 
 → Introducción a la Ciencia de la Computación:
-[Enlace](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">Enlace</a>

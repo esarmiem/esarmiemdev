@@ -19,4 +19,4 @@ Adobe Illustrator, Adobe InDesign, Adobe Photoshop, Adobe XD, Figma, Framer, Mir
 📈 __Programas de Productividad y Más:__
 Apple Calendar, Around, Google Chrome, Gmail, Google Calendar, Google Meet, iA Writer, Linear, macOS, Microsoft Teams, Mindnode, Notion, Safari, Slack, Spark, Windows, Zoom.
 
-[Shortcuts.design](https://shortcuts.design/)
+<a href="https://shortcuts.design/" target="_blank">Shortcuts.design</a>

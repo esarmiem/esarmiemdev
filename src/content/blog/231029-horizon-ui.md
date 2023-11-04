@@ -17,4 +17,4 @@ Biblioteca de componentes código abierto con diseños modernos para:
 - Tailwind CSS
 - Figma
 
-[Horizon UI](https://horizon-ui.com/)
+<a href="https://horizon-ui.com/" target="_blank">Horizon UI</a>

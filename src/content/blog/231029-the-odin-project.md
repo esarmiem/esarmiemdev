@@ -17,4 +17,4 @@ Hecho por la comunidad, para la comunidad 🤝
 - 💎 Full Stack Ruby on Rails
 - 💡 Full Stack JavaScript
 
-[The Odin Project](https://www.theodinproject.com/)
+<a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
