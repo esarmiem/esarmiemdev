@@ -84,30 +84,37 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply cursor-default;
 }
 
-body {
-  --sb-track-color: #fecaca;
-  --sb-thumb-color: #fef9c3;
+:root {
+  --sb-track-color: #fef9c3;
+  --sb-thumb-color: #2e2c2c;
   --sb-size: 12px;
-
-  scrollbar-color: var(--sb-thumb-color) 
-                   var(--sb-track-color);
-}
-
-body::-webkit-scrollbar {
-  width: var(--sb-size) 
-}
-
-body::-webkit-scrollbar-track {
+ }
+ 
+ html {
+  scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+  scrollbar-width: var(--sb-size);
+ }
+ 
+ html::-webkit-scrollbar {
+  width: var(--sb-size);
+ }
+ 
+ html::-webkit-scrollbar-track {
   background: var(--sb-track-color);
-  border-radius: 1px;
-}
-
-body::-webkit-scrollbar-thumb {
+ }
+ 
+ html::-webkit-scrollbar-thumb {
   background: var(--sb-thumb-color);
-  border-radius: 1px;
-  border: 2px solid #232e33;
+  border: 2px solid #000000;
+ }
+ 
+ @supports not selector(::-webkit-scrollbar) {
+  html {
+     scrollbar-width: thin;
+     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
   }
-
+ }
+ 
 a,
 button,
 a img,
